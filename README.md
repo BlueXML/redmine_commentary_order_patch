@@ -11,8 +11,8 @@ This plugin provides the following features :
 
 ## Installation :
 
-	$cd /path/to/redmine/directory
-	$git clone https://github.com/...
+	$cd /path/to/redmine/directory/plugins
+	$git clone https://github.com/BlueXML/redmine_commentary_order_patch.git
 
 ## Compatibility :
 Tested for RedMine 3.3.* (Manually)
